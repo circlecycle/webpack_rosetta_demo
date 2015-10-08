@@ -1,0 +1,11 @@
+<script id="foo" type="text/hypertag">
+    <!-- markup shml -->
+
+    <view>
+        list:range(10),
+        selectable:"paleyellow, buttonGradient",
+        multiselectable:true,
+        keyselectable:true
+        <div class="padded">
+            [=item=] * [=item=] = [=item*item=]
+</script>
